@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html class="" lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
     <meta charset="utf-8">
@@ -15,60 +15,86 @@
 
 </head>
 
-<body class="font-sans antialiased">
-    <div class="">
-        <div class=" min-h-screen  selection:bg-[#2081ff] selection:text-white">
-            <div class=" w-full">
-                <header
-                    class="flex items-center justify-between border-solid border-b-2 border-blue-300 shadow-lg bg-gradient-to-r from-blue-100 to-blue-300 ">
-                    <div class="">
-                        <img src="{{ asset('images/logo.png') }}" height="100" width="300">
-                    </div>
-                    <nav class="">
-                        <div class="ml-10 flex items-baseline space-x-2">
-                            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                            <x-nav.nav-link href="/" :active="request()->is('/')">Accueil</x-nav.nav-link>
-                            <x-nav.nav-link href="{{route('ecole')}}"
-                                :active="Str::startsWith(request()->route()->getName(), 'ecole') ">L'Ecole</x-nav.nav-link>
-                            <x-nav.nav-link href="{{route('formations')}}"
-                                :active="Str::startsWith(request()->route()->getName(), 'formations')">Les
-                                Formations</x-nav.nav-link>
-                            <x-nav.nav-link href="{{route('quisommesnous')}}"
-                                :active="Str::startsWith(request()->route()->getName(), 'quisommesnous')">Qui sommes nous
-                                ?</x-nav.nav-link>
-                            <x-nav.nav-link href="/contact" :active="request()->is('contact')">Contact</x-nav.nav-link>
-                        </div>
-                    </nav>
-                </header>
+<body class="min-h-screen bg-slate-50 dark:bg-black dark:text-white">
+<header class="sticky top-0 z-10 bg-teal-700 text-white">
+    <section class="mx-auto  flex w-full items-center justify-between p-4">
+      <h1 class="text-3xl font-medium">
+        <a href="#accueil"> 🧩 Est-Littoral</a>
+      </h1>
+      <div class=" ">
+        <button id="hamburger-button" class="relative h-8 w-8 cursor-pointer text-3xl md:hidden">
+          <!-- &#9776; -->
+          <div
+            class="absolute top-4 -mt-0.5 h-1 w-8 rounded bg-white transition-all duration-500 before:absolute before:h-1 before:w-8 before:-translate-x-4 before:-translate-y-3 before:rounded before:bg-white before:transition-all before:duration-500 before:content-[''] after:absolute after:h-1 after:w-8 after:-translate-x-4 after:translate-y-3 after:rounded after:bg-white after:transition-all after:duration-500 after:content-['']">
+          </div>
+        </button>
+        <nav class="hidden space-x-8 text-xl md:block" aria-label="main">
+          <a href="/" class="hover:opacity-90">Accueil</a>
+          <a href="{{route('ecole')}}" class="hover:opacity-90">Ecole</a>
+          <a href="{{route('formations')}}" class="hover:opacity-90">Formations</a>
+          <a href="{{route('quisommesnous')}}" class="hover:opacity-90">A propos</a>
+          <a href="/contact" class="hover:opacity-90">Contact</a>
+        </nav>
+      </div>
+    </section>
+    <section id="mobile-menu"
+      class="top-68 justify-center absolute hidden w-full origin-top animate-open-menu flex-col bg-black text-5xl">
+      <!-- <button class="text-8xl self-end px-6">
+                &times;
+            </button> -->
+      <nav class="flex min-h-screen flex-col items-center py-8" aria-label="mobile">
+        <a href="/" class="w-full py-6 text-center hover:opacity-90">Accueil</a>
+        <a href="{{route('ecole')}}" class="w-full py-6 text-center hover:opacity-90">Ecole</a>
+        <a href="{{route('formations')}}" class="w-full py-6 text-center hover:opacity-90">Formations</a>
+        <a href="{{route('quisommesnous')}}" class="w-full py-6 text-center hover:opacity-90">A propos</a>
+        <a href="/contact" class="w-full py-6 text-center hover:opacity-90">Contact</a>
+      </nav>
+    </section>
+  </header>
+  <main class="mx-auto w-full ">
+    <section id="accueil"
+        class="bg-blue-100 mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
+        <article class="lg:w-1/3">
+          <h2 class="max-w-lg text-center text-4xl font-bold text-slate-900 dark:text-white lg:text-left lg:text-5xl">
+            Ecole Superieure <br> de Technologie
+          </h2>
+          <p class="mt-4 max-w-md text-center text-2xl font-bold text-slate-700 dark:text-slate-400 lg:text-left">
+              <span class="text-blue-700 dark:text-indigo-300">Télécommunication & Réseaux,<br>Systèmes Industriels,<br>Environnement,<br>Hygiène et Sécurité,<br>Amont Pétrolier</span>
+          </p>
 
-                <main class="">
-                    <div class="flex justify-center items-center  p-5 bg-blue-50">
-                        <div class="flex justify-center items-center">
-                            <img src="{{ asset('images/banniere-4.jpg') }}" class="rounded-lg">
-                        </div>
-                    </div>
+        </article>
+        <img class="block rounded-3xl w-full lg:w-2/3 "  src="images/banniere-4.jpg" alt="Est-Littoral" width ="400" height="400"  />
+    </section>
+    <section id="content" class="widescreen:section-min-height tallscreen:section-min-height mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
+    {{ $slot }}
+    </section>
+    </main>
 
-                    <div class="my-10 flex items-center justify-center">
-                        <div class="w-1/12"></div>
-                        <div class="w-5/6">
-                        {{ $slot }}
-                        </div>
-                        <div class="w-1/12"></div>
-                    </div>
-
-
-                </main>
-
-                <footer
-                    class="mt-10 py-10 text-center text-sm text-black dark:text-white/70 bg-gradient-to-r from-blue-100 to-blue-300">
-                    <p class="mt-4 text-sm/relaxed">
-                        <strong>Est-Littoral - Ecole Supérieur de Technologie du Littoral.</strong>
-                        <br>Etablissement privé d'enseignement supérieur situé à Pointe-Noire au Congo.
-                    </p>
-                </footer>
-            </div>
-        </div>
-    </div>
+    <footer id="footer" class="bg-teal-700 text-xl text-white">
+    <section class="mx-auto flex max-w-4xl flex-col p-4 sm:flex-row sm:justify-between">
+      <address>
+        <h2>Ecole Supérieur de Technologie du Littoral</h2>
+        Lycée Victor Augagneur<br />
+        Chambre de Commerce<br />
+        B.P. : 8101 Pointe-Noire,<br />
+        République du Congo<br />
+        Email:
+        <a href="mailto:est-littoral2000@gmail.com">est-littoral2000@gmail.com</a><br />
+        Phone: <a href="tel:+242066653021"> 00 242 06 665 30 21</a>
+      </address>
+      <nav class="hidden flex-col gap-2 md:flex" aria-label="footer">
+      <a href="/" class="hover:opacity-90">Accueil</a>
+          <a href="{{route('ecole')}}" class="hover:opacity-90">Ecole</a>
+          <a href="{{route('formations')}}" class="hover:opacity-90">Formations</a>
+          <a href="{{route('quisommesnous')}}" class="hover:opacity-90">A propos</a>
+          <a href="/contact" class="hover:opacity-90">Contact</a>
+      </nav>
+      <div class="flex flex-col sm:gap-2">
+        <p class="text-right">Copyright &copy; <span id="year">2024</span></p>
+        <p class="text-right">All Rights Reserved</p>
+      </div>
+    </section>
+  </footer>
 </body>
 
 </html>
