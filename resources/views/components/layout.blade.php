@@ -19,7 +19,7 @@
 <header class="sticky top-0 z-10 bg-teal-700 text-white">
     <section class="mx-auto  flex w-full items-center justify-between p-4">
       <h1 class="text-3xl font-medium">
-        <a href="#accueil"> 🧩 Est-Littoral</a>
+        <a href="/"> 🧩 Est-Littoral</a>
       </h1>
       <div class=" ">
         <button id="hamburger-button" class="relative h-8 w-8 cursor-pointer text-3xl md:hidden">
@@ -56,12 +56,11 @@
         class="bg-blue-100 mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
         <article class="lg:w-1/3">
           <h2 class="max-w-lg text-center text-4xl font-bold text-slate-900 dark:text-white lg:text-left lg:text-5xl">
-            Ecole Superieure <br> de Technologie
+            Ecole Supérieure <br> de Technologie
           </h2>
           <p class="mt-4 max-w-md text-center text-2xl font-bold text-slate-700 dark:text-slate-400 lg:text-left">
-              <span class="text-blue-700 dark:text-indigo-300">Télécommunication & Réseaux,<br>Systèmes Industriels,<br>Environnement,<br>Hygiène et Sécurité,<br>Amont Pétrolier</span>
+              <span class="text-blue-700 dark:text-indigo-300">Télécommunication & Réseaux<br>Systèmes Industriels<br>Environnement<br>Hygiène et Sécurité<br>Amont Pétrolier</span>
           </p>
-
         </article>
         <img class="block rounded-3xl w-full lg:w-2/3 "  src="images/banniere-4.jpg" alt="Est-Littoral" width ="400" height="400"  />
     </section>
@@ -73,7 +72,7 @@
     <footer id="footer" class="bg-teal-700 text-xl text-white">
     <section class="mx-auto flex max-w-4xl flex-col p-4 sm:flex-row sm:justify-between">
       <address>
-        <h2>Ecole Supérieur de Technologie du Littoral</h2>
+        <h2>Ecole Supérieure de Technologie du Littoral</h2>
         Lycée Victor Augagneur<br />
         Chambre de Commerce<br />
         B.P. : 8101 Pointe-Noire,<br />
@@ -90,7 +89,7 @@
           <a href="/contact" class="hover:opacity-90">Contact</a>
       </nav>
       <div class="flex flex-col sm:gap-2">
-        <p class="text-right">Copyright &copy; <span id="year">2024</span></p>
+        <p class="text-right">Copyright &copy; <span id="year">2025</span></p>
         <p class="text-right">All Rights Reserved</p>
       </div>
     </section>

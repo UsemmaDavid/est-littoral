@@ -7,14 +7,17 @@
                 <h2 class="text-xl font-bold">Objectifs</h2><br>
                 EST-Littoral a été fondée pour offrir un enseignement supérieur de qualité axé sur la
                 professionnalisation et préparant ainsi les étudiants aux fonctions de Techniciens Supérieurs dans les
-                secteurs industriels.
+                secteurs industriels.<br>
                 Notre Force réside dans notre modèle pédagogique qui repose sur cinq piliers fondamentaux :
-                o Structuration judicieuse du curiculata de formation.
-                o Formations à double compétence.
-                o Subtil mélange entre universitaires qualifiés et professionnels expérimentés.
-                o Équilibre entre formation théorique à l’Ecole et formation pratique par immersion en entreprise.
-                o Système rigoureux d’évaluation.
-
+                <br>
+                <ul class="list-disc list-inside font-semibold ">
+                    <li>Structuration judicieuse du curiculata de formation</li>
+                    <li>Formations à double compétence</li>
+                    <li>Subtil mélange entre universitaires qualifiés et professionnels expérimentés</li>
+                    <li>Équilibre entre formation théorique à l’Ecole et formation pratique par immersion en entreprise</li>
+                    <li>Système rigoureux d’évaluation</li>
+                </ul>
+                <br>
                 Au cours de ses 24 années d’existence, EST-Littoral a su s'imposer comme une institution prestigieuse
                 dédiée à l'excellence dans la formation professionnalisante pour l’employabilité réussie de ses
                 étudiants.
@@ -25,14 +28,21 @@
                 <p>
                 <h2 class="text-xl font-bold">Formations</h2><br>
                 Les formations sont conçues selon le cursus international LMD dans 2 domaines.
-                <br><br> Domaine Sciences et Technologies
-                <br>· Génie des Télécommunications et Réseaux (GTR)
-                <br>· Génie des Systèmes Industriels (GSI)
-                <br>· Génie de l’Environnement, Hygiène et Sécurité (GEHS)
-                <br>· Génie de l’Amont Pétrolier (GAP).
-                <br><br>Domaine Gestion Maritime et Portuaire
-                <br>. Génie du Management des Activités Maritimes (GMAM)
-                </p>
+                <ul class="list-disc list-inside">
+                    <li><strong>Domaine Sciences et Technologies</strong>
+                        <ul class="list-disc indent-10 list-inside ">
+                            <li>Génie des Télécommunications et Réseaux (GTR)</li>
+                            <li>Génie des Systèmes Industriels (GSI)</li>
+                            <li>Génie de l’Environnement, Hygiène et Sécurité (GEHS)</li>
+                            <li>Génie de l’Amont Pétrolier (GAP)</li>
+                        </ul>
+                    </li>
+                    <li><strong>Domaine Gestion Maritime et Portuaire</strong>
+                    <ul class="list-disc indent-10 list-inside">
+                            <li>Génie du Management des Activités Maritimes (GMAM)</li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
             <div
                 class="overflow-hidden rounded-lg bg-blue-200 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
@@ -47,11 +57,13 @@
                 class="overflow-hidden rounded-lg bg-blue-200 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Notre Mission</h2><br>
-                o Offrir une formation crédible alignée aux exigences du marché national et international et préparant
-                les étudiants aux carrières dans les génies industriels ;
-                o Permettre aux diplômés de poursuivre leurs études à l’international (écoles d'ingénieurs,
-                universités);
-                o Promouvoir l’auto-emploi des diplômés
+                <ul class="list-disc list-inside">
+                    <li>Offrir une formation crédible alignée aux exigences du marché national et international et préparant
+                    les étudiants aux carrières dans les génies industriels</li>
+                    <li>Permettre aux diplômés de poursuivre leurs études à l’international (écoles d'ingénieurs,
+                    universités)</li>
+                    <li>Promouvoir l’auto-emploi des diplômés</li>
+                </ul>
             </div>
 
             <div
@@ -59,10 +71,12 @@
                 <p><h2 class="text-xl font-bold">Conditions d'Admission</h2>
                 <br>Sciences et Technologies : Bac C, D, E, S, F + Entretien.
                 <br>Gestion Maritime : Bac A, C, D, BG, G, S + Entretien.
-                <br><br>Durée des Études
-                <br>3 ans pour le Diplôme Supérieur de Technologie.
-                <br>4 ans pour la Licence Professionnelle (année préparatoire incluse).
-                <br><br>La première année étant une année préparatoire de remise à niveau des connaissances et de transmission
+                <br><br>
+                <ul class="list-disc list-inside">Durée des Études
+                    <li>3 ans pour le Diplôme Supérieur de Technologie</li>
+                    <li>4 ans pour la Licence Professionnelle (année préparatoire incluse)</li>
+                </ul>
+                <br>La première année étant une année préparatoire de remise à niveau des connaissances et de transmission
                 des savoirs requis pour la poursuite des études.
                 </p>
             </div>
@@ -82,6 +96,4 @@
         </div>
 
     </div>
-
-
 </x-layout>
