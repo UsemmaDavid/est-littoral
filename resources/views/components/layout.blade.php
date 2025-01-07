@@ -53,7 +53,7 @@
   </header>
   <main class="mx-auto w-full ">
     <section id="accueil"
-        class="bg-blue-100 mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
+        class="bg-blue-100 dark:bg-black mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
         <article class="lg:w-1/3">
           <h2 class="max-w-lg text-center text-4xl font-bold text-slate-900 dark:text-white lg:text-left lg:text-5xl">
             Ecole Supérieure <br> de Technologie

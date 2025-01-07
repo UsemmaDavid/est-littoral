@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\viewSchoolController;
+use App\Http\Controllers\contactcontroller;
 
 
 Route::get('/', function () {
@@ -16,3 +16,4 @@ Route::get('/quisommesnous', function () {
 Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
+Route::post('/contact', [contactcontroller::class, 'sendMessage'])->name('postmessage');

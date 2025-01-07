@@ -2,7 +2,7 @@
     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
         <div class="flex flex-col items-start">
             <div
-                class="overflow-hidden rounded-lg bg-blue-200 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+                class="overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Notre Vision</h2><br>
                 <strong>EST-Littoral aspire à devenir une école de référence par la qualité de ses formations et par ses
@@ -25,7 +25,7 @@
                 <img src="{{ asset('images/etudiantTP.png') }}" class="rounded-lg">
             </div>
             <div
-                class="overflow-hidden rounded-lg bg-blue-200 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+                class="overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                     <h2 class="text-xl font-bold">Des enseignants de qualité</h2><br>
                     Notre force réside dans ce savant mélange entre enseignements théoriques et
@@ -38,10 +38,10 @@
         </div>
         <div class="flex flex-col items-start">
         <div >
-                <img src="{{ asset('images/EtudiantEntreprise-2.png') }}" class="rounded-lg">
+                <img src="{{ asset('images/Etudiantsprofesseur.png') }}" class="rounded-lg">
             </div>
             <div
-                class="overflow-hidden rounded-lg bg-blue-200 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+                class="overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                     <h2 class="text-xl font-bold">Engagements & Valeurs</h2><br>
                     L’Ecole Supérieure de Technologie du Littoral reste persuadée des enjeux que représente le secteur

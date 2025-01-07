@@ -2,7 +2,7 @@
     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
         <div class="flex flex-col items-start">
             <div
-                class="overflow-hidden rounded-lg bg-blue-200 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+                class="w-full overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Parmi les meilleures institutions d'enseignement supérieur au Congo</h2><br>
                 L'École Supérieure de Technologie du Littoral se classe parmi les meilleures institutions d'enseignement
@@ -20,21 +20,21 @@
                 favorise la professionnalisation et l’employabilité de nos formations
                 </p>
             </div>
-            <div class="mt-5">
-                <img src="{{ asset('images/EtudiantEntreprise.png') }}" class="rounded-lg">
+            <div class="mt-5 w-full">
+                <img src="{{ asset('images/ordinateurTable.png') }}" class="rounded-lg">
             </div>
 
         </div>
         <div class="flex flex-col items-start">
             <div
-                class="overflow-hidden rounded-lg bg-blue-200 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+                class="w-full overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Nos Valeurs</h2><br>
                 Qualité, Éthique, Transparence !
                 Seul l’avenir des jeunes nous préoccupe !
             </div>
             <div
-                class="overflow-hidden rounded-lg bg-blue-200 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+                class="w-full overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Nos Partenaires</h2><br>
                 <br>IUT d’Évry Val d’Essonne (Paris) , Lycée Isaac NEWTON (Paris) , les entreprises de la place
