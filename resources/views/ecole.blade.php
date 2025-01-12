@@ -45,9 +45,7 @@
                 <p>
                     <h2 class="text-xl font-bold">Engagements & Valeurs</h2><br>
                     L’Ecole Supérieure de Technologie du Littoral reste persuadée des enjeux que représente le secteur
-                    de la formation des élites dans le développement d’un pays.<br> <strong> C’est ainsi que l’Ecole Supérieure de
-                    Technologie ambitionne d’être au Congo l’une des meilleures écoles dans la formation en ce qui
-                    concerne les domaines des sciences et technologies et de gestion maritime et portuaire.</strong>
+                    de la formation des élites dans le développement d’un pays.<br> 
                     <br>Notre engagement dans cette conquête de la formation des jeunes pour l’emploi est vital. Nous savons
                     que la préoccupation profonde c’est plus que jamais l’emploi et l’avenir des jeunes.
                     C’est un enjeu essentiel. Nous sommes persuadés que l’investissement dans la formation des jeunes
