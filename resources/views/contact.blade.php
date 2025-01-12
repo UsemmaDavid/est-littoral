@@ -18,11 +18,11 @@
                     <br>
                     <ul class="mt-2 mb-4 list-image-[url('../../public/images/mobile.png')] list-inside">
                         <h3 class=" font-bold">Contact téléphonique </h3>
-                        <li><a href="tel:+242066620572">   Directeur</a></li>
-                        <li><a href="tel:+242066653021">Administrateur Général</a></li>
-                        <li><a href="tel:+242055287679">Sécretariat 1</a></li>
-                        <li><a href="tel:+242066698716">Sécretariat 2</a></li>
-                        <li><a href="tel:+242066601521">Sécrétariat 3</a></li>
+                        <li><a href="tel:+242066620572">Promoteur</a></li>
+                        <li><a href="tel:+242066652031">Administrateur Général</a></li>
+                        <li><a href="tel:+242066601021">Chef de la Scolarité</a></li>
+                        <li><a href="tel:+242066698716">Sécrétaire de direction</a></li>
+                        <li><a href="tel:+242066685888">Gestionnaire</a></li>
                     </ul>
                     <a href="mailto:est-littoral2000@gmail.com"><div class="flex items-end space-x-2"><img src="images/mail.png"> <span class="font-bold">Contacter par mail</span></div></a><br />
                 </address>
