@@ -31,7 +31,7 @@
                 <p>
                     <h2 class="text-xl font-bold">Formations en Alternance</h2><br>
                     EST-Littoral privilégie la formation en alternance afin de permettre aux étudiants de mieux appréhender les problématiques des entreprises et de répondre à leurs préoccupations.<br><br>
-                    Notre formation en alternance est basée sur l'acquisition des connaissances à
+                    Cette formation en alternance, basée sur l'acquisition des connaissances à
                     l'école et la transmission en entreprise des compétences et expériences professionnelles
                     que les étudiants n'auront ni dans les livres ni à l école, est la voie d'excellence pour la
                     professionnalisation de nos formations et une employabilité réussie de nos étudiants.
