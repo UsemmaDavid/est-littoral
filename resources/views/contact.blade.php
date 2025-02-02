@@ -20,7 +20,7 @@
                         <h3 class=" font-bold">Contact téléphonique </h3>
                         <li><a href="tel:+242066620572">Promoteur</a></li>
                         <li><a href="tel:+242066652031">Administrateur Général</a></li>
-                        <li><a href="tel:+242066601021">Chef de la Scolarité</a></li>
+                        <li><a href="tel:+242066601521">Chef de la Scolarité</a></li>
                         <li><a href="tel:+242066698716">Sécrétaire de direction</a></li>
                         <li><a href="tel:+242066685888">Gestionnaire</a></li>
                     </ul>

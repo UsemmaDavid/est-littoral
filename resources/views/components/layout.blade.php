@@ -32,7 +32,7 @@
           <a href="/" class="hover:opacity-90">Accueil</a>
           <a href="{{route('ecole')}}" class="hover:opacity-90">Ecole</a>
           <a href="{{route('formations')}}" class="hover:opacity-90">Formations</a>
-          <a href="{{route('quisommesnous')}}" class="hover:opacity-90">A propos</a>
+          <a href="{{route('programmes')}}" class="hover:opacity-90">Programmes</a>
           <a href="/contact" class="hover:opacity-90">Contact</a>
         </nav>
       </div>
@@ -46,7 +46,7 @@
         <a href="/" class="w-full py-6 text-center hover:opacity-90">Accueil</a>
         <a href="{{route('ecole')}}" class="w-full py-6 text-center hover:opacity-90">Ecole</a>
         <a href="{{route('formations')}}" class="w-full py-6 text-center hover:opacity-90">Formations</a>
-        <a href="{{route('quisommesnous')}}" class="w-full py-6 text-center hover:opacity-90">A propos</a>
+        <a href="{{route('programmes')}}" class="w-full py-6 text-center hover:opacity-90">Programmes</a>
         <a href="/contact" class="w-full py-6 text-center hover:opacity-90">Contact</a>
       </nav>
     </section>
@@ -85,7 +85,7 @@
       <a href="/" class="hover:opacity-90">Accueil</a>
           <a href="{{route('ecole')}}" class="hover:opacity-90">Ecole</a>
           <a href="{{route('formations')}}" class="hover:opacity-90">Formations</a>
-          <a href="{{route('quisommesnous')}}" class="hover:opacity-90">A propos</a>
+          <a href="{{route('programmes')}}" class="hover:opacity-90">Programmes</a>
           <a href="/contact" class="hover:opacity-90">Contact</a>
       </nav>
       <div class="flex flex-col sm:gap-2">
