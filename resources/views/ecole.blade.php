@@ -5,9 +5,9 @@
                 class="overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Notre Vision</h2><br>
-                L'École Supérieure de Technologie du Littoral se classe parmi les meilleures institutions d'enseignement
+                <strong>L'École Supérieure de Technologie du Littoral</strong> se classe parmi les meilleures institutions d'enseignement
                 supérieur au Congo.
-                <br>En partenariat avec l'IUT d'Évry Val d'Essonne (France), EST-Littoral a ouvert ses
+                <br>En partenariat avec l'IUT d'Évry Val d'Essonne (France), <strong>EST-Littoral</strong> a ouvert ses
                 portes le 6 novembre 2000.<br>
                 <strong>EST-Littoral aspire à devenir une école de référence par la qualité de ses formations et par ses
                     stratégies pédagogiques.</strong> <br>Avec une équipe d'enseignants hautement qualifiés, nous nous
@@ -48,7 +48,7 @@
                 class="overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                     <h2 class="text-xl font-bold">Engagements & Valeurs</h2><br>
-                    L’Ecole Supérieure de Technologie du Littoral reste persuadée des enjeux que représente le secteur
+                    <strong>L'École Supérieure de Technologie du Littoral</strong> reste persuadée des enjeux que représente le secteur
                     de la formation des élites dans le développement d’un pays.<br> 
                     <br>Notre engagement dans cette conquête de la formation des jeunes pour l’emploi est vital. Nous savons
                     que la préoccupation profonde c’est plus que jamais l’emploi et l’avenir des jeunes.

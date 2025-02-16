@@ -5,7 +5,7 @@
                 class="w-full overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Objectifs</h2><br>
-                EST-Littoral a été fondée pour offrir un enseignement supérieur de qualité axé sur la
+                <strong>EST-Littoral</strong> a été fondée pour offrir un enseignement supérieur de qualité axé sur la
                 professionnalisation et préparant ainsi les étudiants aux fonctions de Techniciens Supérieurs dans les
                 secteurs industriels.<br>
                 Notre Force réside dans notre modèle pédagogique qui repose sur cinq piliers fondamentaux :
@@ -18,7 +18,7 @@
                     <li>Système rigoureux d’évaluation</li>
                 </ul>
                 <br>
-                Au cours de ses 24 années d’existence, EST-Littoral a su s'imposer comme une institution prestigieuse
+                Au cours de ses 24 années d’existence, <strong>EST-Littoral</strong> a su s'imposer comme une institution prestigieuse
                 dédiée à l'excellence dans la formation professionnalisante pour l’employabilité réussie de ses
                 étudiants.
                 </p>
@@ -89,7 +89,7 @@
             <div
                 class="w-full overflow-hidden rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p><h2 class="text-xl font-bold">Débouchés</h2>
-                <br>Depuis sa création en 2000, EST-Littoral a diplômé 554 étudiants dont : 87% sont employés dans diverses entreprises ;
+                <br>Depuis sa création en 2000, <strong>EST-Littoral</strong> a diplômé 554 étudiants dont : 87% sont employés dans diverses entreprises ;
                 <br>Les autres étaient en poursuite leurs études à l'international
                 </p>
             </div>
