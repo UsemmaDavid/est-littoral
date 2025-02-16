@@ -21,7 +21,7 @@
                 <p>
                     <h2 class="text-xl font-bold">Les Unités d'enseignements</h2><br>
                     1- <strong>Les enseignements généraux</strong> de l'année préparatoire et les Enseignements généraux de la seconde et la troisième années ont pour objectifs d'affermir les connaissances théoriques, d'apporter les compléments de formation nécessaires pour aborder la partie professionnalisée.
-                    Les programmes et les découpages des horaires ont été établis en fonction du constat fait du niveau des bacheliers issus de l'enseignement secondaire.
+                    <br> Les programmes et les découpages des horaires ont été établis en fonction du constat fait du niveau des bacheliers issus de l'enseignement secondaire.
                     <br><br>
                     2 - <strong>Les outils scientifiques</strong> sont destinés à apporter les méthodes scientifiques propres aux métiers visés. 
                     <br><br>
