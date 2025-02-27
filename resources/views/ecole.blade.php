@@ -76,14 +76,14 @@
     <div
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-10 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
-                <h2 class="text-xl font-bold">Gouvernance</h2><br>
+                <h2 class="text-xl font-bold">Notre Gouvernance</h2><br>
                     Soucieuse d’une gouvernance solide et consciente du rôle déterminant de ses partenaires dans ses orientations stratégiques, EST-Littoral est doté de plusieurs organes de fonctionnement.
                     <ul class="list-[upper-roman] list-inside ">
                         <li><strong>Un organe de direction</strong>
                         <ul class="list-[upper-latin] indent-10 list-inside ">
                                 <li>Promoteur</li>
                                 <li>Administrateur général</li>
-                                <li>Adminiqtrateur général adjoint</li>
+                                <li>Administrateur général adjoint</li>
                                 <li>Chefs de départements</li>
                                 <li>Chef de la scolarité</li>
                             </ul>

@@ -39,7 +39,7 @@
 
             <div
                 class="overflow-hidden w-full rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
-                <h2 class="text-xl font-bold">Année préparatoire</h2><br>
+                <h2 class="text-xl font-bold">Année préparatoire Sciences et Technologies</h2><br>
                 <table class="w-full text-center">
                     <thead>
                         <tr>
