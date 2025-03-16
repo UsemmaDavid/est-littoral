@@ -5,11 +5,12 @@
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                     <h2 class="text-xl font-bold">Etablissement Supérieur agréé par l'Etat</h2><br>
-                    <strong>L’Ecole Supérieure de Technologie du Littoral</strong> « EST-Littoral » est un
-                    établissement privé d'enseignement supérieur définitivement
-                    agréé par le ministère de l'enseignement supérieur sous le n° 11093 MES/CAB du 14 juin 2019.
-                    Elle figure parmi les meilleurs établissements d'enseignement
-                    supérieur du Congo.
+                    <strong>L’Ecole Supérieure de Technologie du Littoral</strong> « EST-Littoral », située à Pointe-Noire, est un
+                    établissement privé d'enseignement supérieur qui figure parmi les meilleurs établissements d'enseignement supérieur en République du Congo.
+                    <br>
+                    Au fil des années, <strong>EST-Littoral </strong> s'est forgée une réputation d'excellence dans le domaine de la formation, ce qui lui vaut désormais d'être reconnue au niveau local et international.
+                    <br>
+                    Notre école est définitivement agréé par le ministère de l'enseignement supérieur sous la référence 11093 MES/CAB du 14 juin 2019.
                 </p>
             </div>
             <div class="mt-5">
@@ -19,9 +20,13 @@
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                     <h2 class="text-xl font-bold">IUT d'Evry Val d'Essonne (France) Un partenaire historique</h2><br>
-                    En partenariat avec l'IUT d'Evry Val d'Essonne (France), <strong>EST-Littoral</strong> a
-                    ouvert ses portes le 06 novembre 2000.<br>
-                    Les programmes de formation sont élaborés en collaboration avec notre partenaire historique l'IUT d Evry Val d Essonne.
+                    Le partenariat entre <strong> l'Ecole Supérieur de Technologie du Littoral, EST-Littoral</strong> et l'IUT d'Evry Val d'Essonne (France) repose sur une convention de partenariat scientifique et technique signée le 26 Mai 2001 à paris.
+                    <br>Ce partenariat, essentiel pour positionner notre école comme une structure de formation de qualité et répondant aux besoins du marché du travail moderne a pour objectif de renforcer :
+                    <ul class="list-disc indent-10 list-inside ">   
+                        <li><strong>Le niveau des formations </strong> en alignant les programmes de <strong> EST-Littoral</strong> aux standards internationaux.</li>
+                        <li><strong>Le développement des compétences profesionnelles </strong> en permettant à nos étudiants d'acquerir des compétences pratiques adaptées aux exigences du monde industriel.</li>
+                    </ul>
+                    En somme, ce partenariat stratégique conduit à promouvoir la réputation académique de <strong> EST-Littoral</strong> en valorisant l'employabilité de ses diplômés et en facilitant la poursuite de leurs études à l'international.
                 </p>
             </div>
         </div>

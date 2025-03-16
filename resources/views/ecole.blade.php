@@ -88,7 +88,7 @@
                                 <li>Chef de la scolarité</li>
                             </ul>
                         </li> 
-                        <li><strong>Un organe de supervision et de discipline</strong>
+                        <li><strong>Un organe de supervision, d'exécution et de discipline</strong>
                             <ul class="list-[upper-latin] indent-10 list-inside ">
                                 <li><strong>Conseil d'administration</strong>
                                     <ul class="list-disc indent-20 list-inside ">Organe de supervision et   d’orientation des politiques de l’Ecole, il permet d’impliquer les entreprises et tous les autres partenaires dans son projet de développement. Il est constitué de :
