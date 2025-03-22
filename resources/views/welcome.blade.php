@@ -10,7 +10,7 @@
                     <br>
                     Au fil des années, <strong>EST-Littoral </strong> s'est forgée une réputation d'excellence dans le domaine de la formation, ce qui lui vaut désormais d'être reconnue au niveau local et international.
                     <br>
-                    Notre école est définitivement agréé par le ministère de l'enseignement supérieur sous la référence 11093 MES/CAB du 14 juin 2019.
+                    Notre école est définitivement agréée par le ministère de l'enseignement supérieur sous la référence 11093 MES/CAB du 14 juin 2019.
                 </p>
             </div>
             <div class="mt-5">
