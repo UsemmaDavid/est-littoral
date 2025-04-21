@@ -5,23 +5,13 @@
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Notre Vision</h2><br>
-                <strong>L'École Supérieure de Technologie du Littoral</strong> se classe parmi les meilleures institutions d'enseignement
-                supérieur au Congo.
-                <strong>EST-Littoral aspire à devenir une école de référence par la qualité de ses formations et par ses
-                    stratégies pédagogiques.</strong> <br>Avec une équipe d'enseignants hautement qualifiés, nous nous
-                engageons à
-                transmettre non seulement un savoir académique, mais aussi des compétences professionnelles de
-                qualité, consolidant ainsi notre position dans l'enseignement supérieur au Congo. <br>Nous travaillons
-                sans relâche pour faire de notre école un modèle d'excellence.
-                <br>Nous sommes convaincus que la formation joue un rôle crucial dans le développement d’un pays. C'est
-                pourquoi notre ambition est de figurer parmi les meilleures institutions en sciences et
-                technologies, ainsi qu'en gestion maritime et portuaire. <br>Nous ambitionnons d'accompagner l'évolution
-                de
-                la société, en anticipant ses besoins plutôt qu'en réagissant simplement.
-                <br><strong>L'engagement envers la formation des jeunes pour l'emploi est au cœur de nos préoccupations
-                    car
-                    investir dans leur avenir professionnel est un choix judicieux.</strong>
-                </p>
+                <strong>L’École Supérieure de Technologie du Littoral - EST-Littoral -</strong> figure parmi les institutions d’enseignement supérieur les plus prestigieuses du Congo, reconnue pour la qualité de ses formations et l’innovation de ses méthodes pédagogiques.
+                <br><br>
+                Nous œuvrons avec détermination et constance pour que EST-Littoral demeure un modèle d’excellence, tant dans les domaines des sciences et technologies que dans la gestion des activités maritimes et portuaires.
+                <br><br>
+                Convaincus que la formation des élites est un levier essentiel du développement industriel national, nous aspirons à incarner l’exemple des meilleures formations, capables d’accompagner les entreprises dans l’évolution technologique, en anticipant leurs besoins.
+                <br><br>
+                Cette ambition repose sur l’expertise d’un corps professoral universitaire expérimenté et de professionnels chevronnés, dont l’engagement sans faille et les compétences avérées garantissent des formations à la fois riches et performantes.
             </div>
             <div class="mt-5">
                 <img src="{{ asset('images/etudiantTP.png') }}" class="rounded-lg">
