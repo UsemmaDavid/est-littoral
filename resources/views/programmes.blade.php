@@ -115,7 +115,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Mathématique</td>
+                            <td>Mathématiques</td>
                             <td>60</td>
                         </tr>
                         <tr>

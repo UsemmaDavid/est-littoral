@@ -17,10 +17,14 @@
 
 <body class="min-h-screen bg-slate-50 dark:bg-black dark:text-white">
 <header class="sticky top-0 z-10 bg-teal-700 text-white">
-    <section class="mx-auto  flex w-full items-center justify-between p-4">
+    <section class="mx-auto  flex w-full items-center justify-between px-4 py-2">
+      <div>
       <h1 class="text-3xl font-medium">
-        <a href="/"> 🧩 Est-Littoral</a>
+        <a href="/">🧩 Est-Littoral</a>
       </h1>
+      <h2 class="ml-[52px] font-semibold">Former l'Homme avec grand H</h2>
+      </div>
+      
       <div class=" ">
         <button id="hamburger-button" class="relative h-8 w-8 cursor-pointer text-3xl md:hidden">
           <!-- &#9776; -->
@@ -56,7 +60,7 @@
         class="bg-blue-100 dark:bg-black mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
         <article class="lg:w-1/3">
           <h2 class="max-w-lg text-center text-4xl font-bold text-slate-900 dark:text-white lg:text-left lg:text-5xl">
-            Ecole Supérieure <br> de Technologie du littoral Pointe-Noire
+            Ecole Supérieure <br> de Technologie du littoral <br> Pointe-Noire
           </h2>
           <p class="mt-4 max-w-md text-center text-2xl font-bold text-slate-700 dark:text-slate-400 lg:text-left">
               <span class="text-blue-700 dark:text-indigo-300">Télécommunications & Réseaux<br>Systèmes Industriels<br>Environnement<br>Hygiène et Sécurité<br>Amont Pétrolier</span>
