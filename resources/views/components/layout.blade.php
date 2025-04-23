@@ -60,10 +60,10 @@
         class="bg-blue-100 dark:bg-black mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 lg:flex-row lg:px-20 ">
         <article class="lg:w-1/3">
           <h2 class="max-w-lg text-center text-4xl font-bold text-slate-900 dark:text-white lg:text-left lg:text-5xl">
-            Ecole Supérieure <br> de Technologie du littoral <br> Pointe-Noire
+            Ecole Supérieure <br> de Technologie <br> du littoral <br> Pointe-Noire
           </h2>
           <p class="mt-4 max-w-md text-center text-2xl font-bold text-slate-700 dark:text-slate-400 lg:text-left">
-              <span class="text-blue-700 dark:text-indigo-300">Télécommunications & Réseaux<br>Systèmes Industriels<br>Environnement<br>Hygiène et Sécurité<br>Management des activités maritimes</span>
+              <span class="text-blue-700 dark:text-indigo-300">Télécommunications & Réseaux,<br>Systèmes Industriels,<br>Environnement<br>Hygiène et Sécurité,<br>Management <br> des activités maritimes</span>
           </p>
         </article>
         <img class="block rounded-3xl w-full lg:w-2/3 "  src="images/banniere-4.jpg" alt="Est-Littoral" width ="400" height="400"  />
