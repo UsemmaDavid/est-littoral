@@ -63,7 +63,7 @@
             Ecole Supérieure <br> de Technologie du littoral <br> Pointe-Noire
           </h2>
           <p class="mt-4 max-w-md text-center text-2xl font-bold text-slate-700 dark:text-slate-400 lg:text-left">
-              <span class="text-blue-700 dark:text-indigo-300">Télécommunications & Réseaux<br>Systèmes Industriels<br>Environnement<br>Hygiène et Sécurité<br>Amont Pétrolier</span>
+              <span class="text-blue-700 dark:text-indigo-300">Télécommunications & Réseaux<br>Systèmes Industriels<br>Environnement<br>Hygiène et Sécurité<br>Management des activités maritimes</span>
           </p>
         </article>
         <img class="block rounded-3xl w-full lg:w-2/3 "  src="images/banniere-4.jpg" alt="Est-Littoral" width ="400" height="400"  />
