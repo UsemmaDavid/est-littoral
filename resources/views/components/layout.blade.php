@@ -66,8 +66,8 @@
               <span class="text-blue-700 dark:text-indigo-300">Télécommunications & Réseaux<br>Systèmes Industriels<br>Environnement, Hygiène<br> & Sécurité<br>Management des activités <br> maritimes</span>
           </p>
         </article>
-        <img class="block rounded-3xl w-full lg:w-2/3 "  src="images/banniere-4.jpg" alt="Est-Littoral" width ="400" height="400"  />
-    </section>
+        <x-banner.main />
+     </section>
     <!-- <section id="content" class="widescreen:section-min-height tallscreen:section-min-height mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center py-10 px-5 md:flex-row md:px-20 "> -->
     <section id="content" class="widescreen:section-min-height tallscreen:section-min-height mb-12 scroll-mt-40 items-center justify-center py-10 px-5 md:px-20 ">
     {{ $slot }}
