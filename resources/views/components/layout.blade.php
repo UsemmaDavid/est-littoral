@@ -16,7 +16,7 @@
 </head>
 
 <body class="min-h-screen bg-slate-50 dark:bg-black dark:text-white">
-<header class="sticky top-0 z-20 bg-teal-700 text-white">
+<header class="sticky top-0 z-30 bg-teal-700 text-white">
     <section class="mx-auto  flex w-full items-center justify-between px-4 py-2">
       <div>
       <h1 class="text-3xl font-medium">

@@ -62,6 +62,12 @@
             title: '',
             description: '',
         },
+        {
+            imgSrc: 'images/pnr/DSC_8748.jpg',
+            imgAlt: '',
+            title: '',
+            description: '',
+        },
     ],            
     currentSlideIndex: 1,
     isPaused: false,

@@ -14,7 +14,7 @@
                 Cette ambition repose sur l’expertise d’un corps professoral universitaire expérimenté et de professionnels chevronnés, dont l’engagement sans faille et les compétences avérées garantissent des formations à la fois riches et performantes.
             </div>
             <div class="mt-5">
-                <img src="{{ asset('images/pnr/DSC_8235.jpg') }}" class="rounded-lg">
+                <img src="{{ asset('images/pnr/DSC_8754.jpg') }}" class="rounded-lg">
             </div>
             <div
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
@@ -57,7 +57,11 @@
                 class="w-full overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Nos Partenaires</h2><br>
-                <br>IUT d’Évry Val d’Essonne (Paris) , Lycée Isaac NEWTON (Paris) , les entreprises de la place
+                <ul class="list-disc list-inside ">
+                                <li>IUT d’Évry Val d’Essonne (Paris) ,</li>
+                                <li>Lycée Isaac NEWTON (Paris) ,</li>
+                                <li>Entreprises de la place</li>
+                </ul>
                 </p>
             </div>
         </div>
@@ -67,7 +71,7 @@
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-10 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Notre Gouvernance</h2><br>
-                    Soucieuse d’une gouvernance solide et consciente du rôle déterminant de ses partenaires dans ses orientations stratégiques, EST-Littoral est doté de plusieurs organes de fonctionnement.
+                    Soucieuse d’une gouvernance solide et consciente du rôle déterminant de ses partenaires dans ses orientations stratégiques, EST-Littoral est dotée de plusieurs organes de fonctionnement.
                     <ul class="list-[upper-roman] list-inside ">
                         <li><strong>Un organe de direction</strong>
                         <ul class="list-[upper-latin] indent-10 list-inside ">
