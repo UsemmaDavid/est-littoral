@@ -5,7 +5,7 @@
                 class="w-full overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Objectifs</h2><br>
-                <strong>EST-Littoral</strong> a été fondée pour offrir un enseignement supérieur de qualité axé sur la
+                <strong>EST-Littoral</strong> a été créée pour offrir un enseignement supérieur de qualité axé sur la
                 professionnalisation et préparant ainsi les étudiants aux fonctions de Techniciens Supérieurs dans les
                 secteurs industriels.<br>
                 Notre Force réside dans notre modèle pédagogique qui repose sur cinq piliers fondamentaux :
@@ -69,7 +69,7 @@
                 </ul>
             </div>
             <div class="mt-5">
-                <img src="{{ asset('images/pnr/DSC_8750.jpg') }}" class="rounded-lg">
+                <img src="{{ asset('images/pnr/DSC_8763.jpg') }}" class="rounded-lg">
             </div>
             <div
                 class="w-full overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
