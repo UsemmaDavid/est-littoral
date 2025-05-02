@@ -5,7 +5,7 @@
                 class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <p>
                 <h2 class="text-xl font-bold">Notre Vision</h2><br>
-                <strong>L’École Supérieure de Technologie du Littoral - EST-Littoral -</strong> figure parmi les institutions d’enseignement supérieur les plus prestigieuses du Congo, reconnue pour la qualité de ses formations et l’innovation de ses méthodes pédagogiques.
+                <strong>L’École Supérieure de Technologie du Littoral - EST-Littoral -</strong> figure parmi les prestigieuses institutions d’enseignement supérieur du Congo, reconnue pour la qualité de ses formations et l’innovation de ses méthodes pédagogiques.
                 <br><br>
                 Nous œuvrons avec détermination et constance pour que EST-Littoral demeure un modèle d’excellence, tant dans les domaines des sciences et technologies que dans la gestion des activités maritimes et portuaires.
                 <br><br>

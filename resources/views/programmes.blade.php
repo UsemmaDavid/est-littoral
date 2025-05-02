@@ -105,198 +105,6 @@
             </div>
             <div
                 class="overflow-hidden w-full rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
-                <h2 class="text-xl font-bold">Première année GAP-GSI</h2><br>
-                <table class="w-full text-center">
-                    <thead>
-                        <tr>
-                        <th>UE1 - Enseignements généraux</th>
-                        <th>Volume horaire</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Mathématiques</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Communication</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Anglais</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Outils bureautiques</td>
-                            <td>45</td>
-                        </tr>
-                        <tr>
-                            <td>Electricité</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Thermodynamique</td>
-                            <td>30</td>
-                        </tr>
-                        <tr>
-                            <td>Chimie</td>
-                            <td>45</td>
-                        </tr>
-                        <tr>
-                            <td>Géologie</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Méthodes numériques et programmation</td>
-                            <td>60</td>
-                        </tr>
-                    </tbody>
-                    <thead>
-                        <tr>
-                        <th>UE2 - Outils scientifiques</th>
-                        <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Electronique analogique</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Electronique de puissance</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Construction mécanique</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>asservisement régulation</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>TP automatisme</td>
-                            <td>90</td>
-                        </tr>
-                        <tr>
-                            <td>projet</td>
-                            <td>90</td>
-                        </tr>
-                        <tr>
-                            <td>Electrotechnique</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Informatique industrielle</td>
-                            <td>60</td>
-                        </tr>
-                    </tbody>
-                    <thead>
-                        <tr>
-                        <th>UE3 - Technologie pétrolière fondamentale</th>
-                        <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Exploration pétrolière</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Géologie pétrolière</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Cartographie</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Etude des équipements</td>
-                            <td>60</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div
-                class="overflow-hidden w-full rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
-                <h2 class="text-xl font-bold">Deuxième année GAP-GSI</h2><br>
-                <table class="w-full text-center">
-                    <thead>
-                        <tr>
-                        <th>UE1 - Enseignements généraux</th>
-                        <th>Volume horaire</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Géologie pétrolière</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Communication</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Instrumentation et régulation</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Thermodynamique des fluides</td>
-                            <td>45</td>
-                        </tr>
-                    </tbody>
-                    <thead>
-                        <tr>
-                        <th>UE2 - Outils scientifiques</th>
-                        <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Corrosion</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Complétion</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Forage</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>Production</td>
-                            <td>90</td>
-                        </tr>
-                        <tr>
-                            <td>Performance des réservoirs</td>
-                            <td>60</td>
-                        </tr>
-                    </tbody>
-                    <thead>
-                        <tr>
-                        <th>UE3 - Immersion en entreprise</th>
-                        <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Stage entreprise</td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>Rapport</td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>Soutenance</td>
-                            <td></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div
-                class="overflow-hidden w-full rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <h2 class="text-xl font-bold">Première année GTR-GSI</h2><br>
                 <table class="w-full text-center">
                     <thead>
@@ -563,8 +371,6 @@
                     </tbody>
                 </table>
             </div>
-        </div>
-        <div class="flex flex-col items-start">
             <div
                 class="overflow-hidden w-full rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <h2 class="text-xl font-bold">Première année GEHS-GSI</h2><br>
@@ -699,6 +505,8 @@
                     </tbody>
                 </table>
             </div>
+        </div>
+        <div class="flex flex-col items-start">
             <div
                 class="overflow-hidden w-full rounded-lg bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 mt-6 p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
                 <h2 class="text-xl font-bold">Deuxième année GEHS-GSI</h2><br>

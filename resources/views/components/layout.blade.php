@@ -78,7 +78,6 @@
     <section class="mx-auto flex max-w-4xl flex-col p-4 sm:flex-row sm:justify-between">
       <address>
         <h2>Ecole Supérieure de Technologie du Littoral</h2>
-        Lycée Victor Augagneur<br />
         Chambre de Commerce<br />
         B.P. : 8101 Pointe-Noire<br />
         République du Congo<br />
