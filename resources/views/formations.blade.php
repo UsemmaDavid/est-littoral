@@ -92,14 +92,29 @@
                 <br>Universitaires chevronnés et Professionnels expérimentés d’entreprises qui apportent une richesse inestimable à nos formations.
                 </p>
             </div>
-            <div
-                class="w-full overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
-                <p><h2 class="text-xl font-bold">Débouchés</h2>
-                <br>Depuis sa création en 2000, <strong>EST-Littoral</strong> a diplômé 554 étudiants dont : 87% sont employés dans diverses entreprises ;
-                <br>Les autres étaient en poursuite leurs études à l'international
-                </p>
-            </div>
         </div>
 
     </div>
+    <div
+    class="w-full overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+    <p>
+        <h2 class="text-xl font-bold">Employabilité</h2>
+        <br>
+        L’École Supérieure de Technologie du Littoral, <strong>EST-Littoral</strong>, s’impose aujourd’hui comme un acteur incontournable en matière d’employabilité, grâce à plusieurs atouts majeurs qui en font une référence dans le paysage de la formation technologique et industrielle :
+        <br>
+        <strong>Des formations exigeantes et adaptées aux besoins du marché</strong> conçues en étroite collaboration avec des entreprises partenaires et des institutions académiques reconnues, telles que l’IUT d’Évry Val d’Essonne.
+        <br>
+        <strong>Une pédagogie innovante et professionnalisante</strong> qui allie théorie et pratique, permettant aux étudiants d’acquérir des compétences techniques pointues et une compréhension approfondie des enjeux industriels actuels.
+        <br>
+        <strong>Un corps professoral de haut niveau</strong> composé d’universitaires expérimentés et de professionnels du secteur, garantissant une formation de qualité, riche en savoirs et en compétences pratiques.
+        <br>
+        <strong>Un réseau de partenaires industriels solide</strong> qui favorise les stages, les projets en entreprise et les opportunités d’emploi pour les diplômés, renforçant ainsi leur employabilité sur le marché du travail.
+        <br>
+        <strong>Un suivi personnalisé des étudiants</strong> tout au long de leur parcours, avec un accompagnement dans la recherche de stages et d’emplois, ainsi que des conseils pour le développement de leur carrière.
+        <br>
+        <strong>Un taux d’insertion professionnelle élevé</strong>, avec près de 66 % des diplômés intégrant rapidement le marché du travail, témoignant de la pertinence et de l’efficacité des formations dispensées.
+        <br>
+        <strong>Une vision tournée vers l’avenir</strong>, avec une adaptation continue des programmes aux évolutions technologiques et aux besoins du marché, garantissant ainsi la pérennité et la pertinence des formations proposées.
+    </p>
+</div>
 </x-layout>

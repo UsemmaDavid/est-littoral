@@ -16,19 +16,6 @@
             <div class="mt-5">
                 <img src="{{ asset('images/pnr/DSC_8759c.jpg') }}" class="rounded-lg">
             </div>
-            <div
-                class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
-                <p>
-                    <h2 class="text-xl font-bold">IUT d'Evry Val d'Essonne (France) Un partenaire historique</h2><br>
-                    Le partenariat entre <strong> l'Ecole Supérieure de Technologie du Littoral</strong> et l'IUT d'Evry Val d'Essonne (France) repose sur une convention de partenariat scientifique et technique signée le 26 Mai 2001 à Paris.
-                    <br>Ce partenariat, essentiel pour positionner notre école comme une structure de formation de qualité et répondant aux besoins du marché du travail moderne a pour objectif de renforcer :
-                    <ul class="list-disc indent-10 list-inside ">   
-                        <li><strong>Le niveau des formations </strong> en alignant les programmes de <strong> EST-Littoral</strong> aux standards internationaux.</li>
-                        <li><strong>Le développement des compétences profesionnelles </strong> en permettant à nos étudiants d'acquerir des compétences pratiques adaptées aux exigences du monde industriel.</li>
-                    </ul>
-                    En somme, ce partenariat stratégique conduit à promouvoir la réputation académique de <strong> EST-Littoral</strong> en valorisant l'employabilité de ses diplômés et en facilitant la poursuite de leurs études à l'international.
-                </p>
-            </div>
         </div>
         <div class="flex flex-col items-start">
             <div
@@ -53,6 +40,18 @@
         </div>
 
     </div>
-
+    <div
+        class="overflow-hidden rounded-lg text-justify bg-blue-200 dark:bg-gray-800 dark:hover:text-white/70 p-6 mt-5 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3">
+        <p>
+            <h2 class="text-xl font-bold">IUT d'Evry Val d'Essonne (France) Un partenaire historique</h2><br>
+            Le partenariat entre <strong> l'Ecole Supérieure de Technologie du Littoral</strong> et l'IUT d'Evry Val d'Essonne (France) repose sur une convention de partenariat scientifique et technique signée le 26 Mai 2001 à Paris.
+            <br>Ce partenariat, essentiel pour positionner notre école comme une structure de formation de qualité et répondant aux besoins du marché du travail moderne a pour objectif de renforcer :
+            <ul class="list-disc indent-10 list-inside ">   
+                <li><strong>Le niveau des formations </strong> en alignant les programmes de <strong> EST-Littoral</strong> aux standards internationaux.</li>
+                <li><strong>Le développement des compétences profesionnelles </strong> en permettant à nos étudiants d'acquerir des compétences pratiques adaptées aux exigences du monde industriel.</li>
+            </ul>
+            En somme, ce partenariat stratégique conduit à promouvoir la réputation académique de <strong> EST-Littoral</strong> en valorisant l'employabilité de ses diplômés et en facilitant la poursuite de leurs études à l'international.
+        </p>
+    </div>
 
 </x-layout>
